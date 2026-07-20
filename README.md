@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0035-search-insert-position) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0084-largest-rectangle-in-histogram) |
 | [0219-contains-duplicate-ii](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0084-largest-rectangle-in-histogram) |
 | [0232-implement-queue-using-stacks](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
@@ -32,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
