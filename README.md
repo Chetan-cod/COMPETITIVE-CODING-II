@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0035-search-insert-position) |
+| [0078-subsets](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0084-largest-rectangle-in-histogram) |
 | [0219-contains-duplicate-ii](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
@@ -54,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0234-palindrome-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
