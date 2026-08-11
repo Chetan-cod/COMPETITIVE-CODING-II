@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0219-contains-duplicate-ii) |
 ## Sliding Window
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0021-merge-two-sorted-lists) |
+| [0142-linked-list-cycle-ii](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0328-odd-even-linked-list) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0234-palindrome-linked-list) |
 ## Backtracking
 |  |
@@ -67,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0078-subsets) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
