@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0084-largest-rectangle-in-histogram) |
+| [0143-reorder-list](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0234-palindrome-linked-list) |
 ## Design
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0328-odd-even-linked-list) |
@@ -54,12 +56,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0234-palindrome-linked-list) |
 ## Backtracking
 |  |
