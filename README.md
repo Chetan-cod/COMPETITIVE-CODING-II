@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0219-contains-duplicate-ii) |
 ## Sliding Window
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0143-reorder-list) |
+| [0202-happy-number](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0234-palindrome-linked-list) |
 ## Backtracking
 |  |
@@ -78,4 +80,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0202-happy-number) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
