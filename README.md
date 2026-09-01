@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0084-largest-rectangle-in-histogram) |
 | [0209-minimum-size-subarray-sum](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0209-minimum-size-subarray-sum) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0202-happy-number) |
 ## Prefix Sum
 |  |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0112-path-sum) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
