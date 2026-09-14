@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0112-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0112-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0112-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -138,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0048-rotate-image) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/1382-balance-a-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
