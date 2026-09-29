@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0084-largest-rectangle-in-histogram) |
 | [0209-minimum-size-subarray-sum](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0219-contains-duplicate-ii) |
+| [0506-relative-ranks](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0506-relative-ranks) |
 ## Hash Table
 |  |
 | ------- |
@@ -150,4 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/1382-balance-a-binary-search-tree) |
+## Sorting
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0506-relative-ranks) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
