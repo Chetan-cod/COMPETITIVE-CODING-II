@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Sliding Window
@@ -167,5 +168,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0205-isomorphic-strings) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 <!---LeetCode Topics End-->
