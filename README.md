@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0219-contains-duplicate-ii) |
 | [0506-relative-ranks](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0506-relative-ranks) |
+| [0643-maximum-average-subarray-i](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0643-maximum-average-subarray-i) |
 ## Binary Search
 |  |
 | ------- |
