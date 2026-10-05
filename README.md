@@ -20,11 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0219-contains-duplicate-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Sliding Window
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0219-contains-duplicate-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0643-maximum-average-subarray-i) |
 ## Binary Search
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/1382-balance-a-binary-search-tree) |
 ## Greedy
 |  |
@@ -161,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0506-relative-ranks) |
+## String
+|  |
+| ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Chetan-cod/COMPETITIVE-CODING-II/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 <!---LeetCode Topics End-->
